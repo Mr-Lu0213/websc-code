@@ -1,0 +1,1 @@
+<div class="ecsc-path"><span><!--商家管理--><?php echo $this->_var['primary_cat']; ?> - - <?php if ($this->_var['ur_here']): ?><?php echo $this->_var['ur_here']; ?><?php else: ?><?php echo $this->_var['lang']['00_home']; ?><?php endif; ?></span></div>
